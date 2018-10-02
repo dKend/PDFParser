@@ -1,5 +1,4 @@
 ## PDFParser
-A pdf table parse which uses tabula-py.
 
 ## Requirements
  - Python 3
